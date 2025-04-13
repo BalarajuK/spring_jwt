@@ -1,7 +1,7 @@
-package com.meghasys.learning.security.spring_security.services;
+package com.meghasys.learning.security.services;
 
-import com.meghasys.learning.security.spring_security.model.MyUser;
-import com.meghasys.learning.security.spring_security.repository.MyUserRepository;
+import com.meghasys.learning.security.repository.MyUserRepository;
+import com.meghasys.learning.security.model.MyUser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

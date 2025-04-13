@@ -1,4 +1,4 @@
-package com.meghasys.learning.security.spring_security;
+package com.meghasys.learning.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

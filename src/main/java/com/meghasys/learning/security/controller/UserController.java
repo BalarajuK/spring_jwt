@@ -1,4 +1,4 @@
-package com.meghasys.learning.security.spring_security.controller;
+package com.meghasys.learning.security.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

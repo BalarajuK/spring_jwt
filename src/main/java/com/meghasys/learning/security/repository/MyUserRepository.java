@@ -1,8 +1,7 @@
-package com.meghasys.learning.security.spring_security.repository;
+package com.meghasys.learning.security.repository;
 
-import com.meghasys.learning.security.spring_security.model.MyUser;
+import com.meghasys.learning.security.model.MyUser;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
 
 import java.util.Optional;
 

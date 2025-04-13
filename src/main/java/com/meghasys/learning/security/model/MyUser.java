@@ -1,4 +1,4 @@
-package com.meghasys.learning.security.spring_security.model;
+package com.meghasys.learning.security.model;
 
 import jakarta.persistence.*;
 
