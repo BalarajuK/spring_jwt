@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring-security
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/spring?allowPublicKeyRetrieval=true
+    username: root
+    password: root
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+        ddl-auto: create-drop
+
